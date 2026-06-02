@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="BrightHorizon Banner" width="100%">
+  <img src="brighthorizon-logo-stacked.png" alt="BrightHorizon Banner" width="100%">
 </p>
 
 <h1 align="center">BrightHorizon</h1>
